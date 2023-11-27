@@ -5,6 +5,8 @@ VisualStudioVersion = 17.8.34309.116
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AWSLambdaIntegration", "AWSLambdaIntegration\AWSLambdaIntegration.csproj", "{206C8828-E40C-492B-8DA2-4E706E09A32D}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ServerlessAPI", "ServerlessAPI\ServerlessAPI.csproj", "{CD208F0A-B0C7-4608-8D74-ED55DB01BAC6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{206C8828-E40C-492B-8DA2-4E706E09A32D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{206C8828-E40C-492B-8DA2-4E706E09A32D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{206C8828-E40C-492B-8DA2-4E706E09A32D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CD208F0A-B0C7-4608-8D74-ED55DB01BAC6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD208F0A-B0C7-4608-8D74-ED55DB01BAC6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD208F0A-B0C7-4608-8D74-ED55DB01BAC6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD208F0A-B0C7-4608-8D74-ED55DB01BAC6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
