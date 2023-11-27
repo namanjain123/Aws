@@ -1,0 +1,36 @@
+{
+  "version": 2,
+  "dgSpecHash": "Nyuq+00QjfyokXuKck9bKq3MCVsFAVVCEnoej8p/j5SvBWKZoQ+T/sZUFuDW8OrHBZISaFJQvLJnmfKi9SIBaA==",
+  "success": false,
+  "projectFilePath": "C:\\Users\\Lenovo\\source\\repos\\AWSLambdaIntegration\\AWSLambdaIntegration\\AWSLambdaIntegration.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1100",
+      "level": "Error",
+      "message": "Unable to resolve 'Amazon.Lambda.Core (>= 2.2.0)' for 'net6.0'. PackageSourceMapping is enabled, the following source(s) were not considered: Microsoft Visual Studio Offline Packages, nuget.org.",
+      "libraryId": "Amazon.Lambda.Core",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    },
+    {
+      "code": "NU1100",
+      "level": "Error",
+      "message": "Unable to resolve 'Amazon.Lambda.Serialization.SystemTextJson (>= 2.4.0)' for 'net6.0'. PackageSourceMapping is enabled, the following source(s) were not considered: Microsoft Visual Studio Offline Packages, nuget.org.",
+      "libraryId": "Amazon.Lambda.Serialization.SystemTextJson",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    },
+    {
+      "code": "NU1100",
+      "level": "Error",
+      "message": "Unable to resolve 'Microsoft.NETCore.App.Crossgen2.win-x64 (= 6.0.25)' for 'net6.0'. PackageSourceMapping is enabled, the following source(s) were not considered: Microsoft Visual Studio Offline Packages, nuget.org.",
+      "libraryId": "Microsoft.NETCore.App.Crossgen2.win-x64",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    }
+  ]
+}
